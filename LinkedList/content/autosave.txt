@@ -1,0 +1,9 @@
+Anderes Element 1,PLZ1,Stadt1,Hobby1;
+Anderes Element 4,PLZ4,Stadt4,Hobby4;
+Anderes Element 5,PLZ5,Stadt5,Hobby5;
+Anderes Element 2,PLZ2,Stadt2,Hobby2;
+Anderes Element 3,PLZ3,Stadt3,Hobby3;
+Mama,72147,Nehren,Tanzen;
+Papa,72147,Nehren,Fussball;
+Simon Stauss,70825,Korntal,Bouldern;
+Test,1,1,1;
